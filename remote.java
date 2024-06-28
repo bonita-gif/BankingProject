@@ -1,2 +1,4 @@
-hi
-this code is modified by divya
+<<<<<<< HEAD
+=======
+this line is modified by dev2
+>>>>>>> dev2
